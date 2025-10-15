@@ -1,11 +1,23 @@
-- 👋 Hello there I’m Harry.
-- 🚀 Currently located in Suffolk, after living and studying in Edinburgh 🏴󠁧󠁢󠁳󠁣󠁴󠁿
-- 🌱 I’m learning web developement and TS. 
-- 👀 I’m interested learning some Java and AI in the future! 
-- 📫 How to reach me ... harrylarke1@hotmail.com
-- ⚡ Fun fact ... I have a degree in Theology?! Theology is the 'Queen of the Sciences' meaning I'm technically qualified in STEM... That is if we were in the medieval era!
-- Checkout my website: https://www.lambda-larke.com
-<!---
-HarryLarke/HarryLarke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1>Welcome to my GitHub Page!</h1>
+Please have a look at my various projects. 
+If you'd like to reach out please feel free to <a href="https://www.lambda-larke.com/contactMe">Contact Me</a> via my website. 
+<h2>Areas of Interest 📚</h2>
+<p>The goals is grow in my knowledge and skills of full stack  development. My key strengths are:</p>
+  <ul>
+    <li>JavaScript/ TypeScript.</li>
+    <li>React.js: RTK, Axios, Redux, JWT and Authentication.</li>
+    <li>Express.js: APIs, Authentification, JWT's, DB management.</li>
+    <li>SQL and no SQL DBs.</li>
+  </ul>
+
+<p>I got and growing skills in:</p>
+  <ul>
+    <li>Java.</li>
+    <li>Spring: APIs, SpringBoot, SpringFramework.</li>
+    <li>Dev Tools: Docker, Git/GitHub.</li>
+  </ul>
+
+  <p>All theese skills are demonstrated in all my various public projects in <a href="https://github.com/HarryLarke?tab=repositories">my repo</a> so please check them out.</p>
+
+<h2>Working Towards 💪</h2>
+<p>I'm really intersted in growing my expertise in backend development! This will include adopting a variety of skills from more learning Spring to LGMT stack and Linux!!</p>
