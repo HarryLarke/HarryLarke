@@ -1,6 +1,6 @@
 <h1>Welcome to my GitHub Page!</h1>
 Please have a look at my various projects. 
-If you'd like to reach out please feel free to <a href="https://www.lambda-larke.com/contactMe">Contact Me</a> via my website. 
+If you'd like to reach out please feel free to <a href="https://www.lambda-larke.com/">Contact Me</a> via my website. 
 <h2>Areas of Interest 📚</h2>
 <p>The goals is grow in my knowledge and skills of full stack  development. My key strengths are:</p>
   <ul>
