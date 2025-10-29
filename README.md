@@ -6,7 +6,7 @@ If you'd like to reach out please feel free to <a href="https://www.lambda-larke
   <ul>
     <li>JavaScript/ TypeScript.</li>
     <li>React.js: RTK, Axios, Redux, JWT and Authentication.</li>
-    <li>Express.js: APIs, Authentification, JWT's, DB management.</li>
+    <li>Express.js: APIs, Authentification, JWT, DB management.</li>
     <li>SQL and no SQL DBs.</li>
   </ul>
 
