@@ -17,7 +17,7 @@ If you'd like to reach out please feel free to <a href="https://www.lambda-larke
     <li>Dev Tools: Docker, Git/GitHub.</li>
   </ul>
 
-  <p>All theese skills are demonstrated in all my various public projects in <a href="https://github.com/HarryLarke?tab=repositories">my repo</a> so please check them out.</p>
+  <p>All these skills are demonstrated in all my various public projects in <a href="https://github.com/HarryLarke?tab=repositories">my repo</a> so please check them out.</p>
 
 <h2>Working Towards 💪</h2>
 <p>I'm really intersted in growing my expertise in backend development! This will include adopting a variety of skills from more learning Spring to LGMT stack and Linux!!</p>
